@@ -1,0 +1,5 @@
+vij=string(input())
+if vij in range(4,11):
+    print("yes")
+else:
+    print("no")
