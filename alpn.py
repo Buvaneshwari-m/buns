@@ -1,9 +1,9 @@
-coke1=input()
-count=0
-for h in coke1:
-  if (j.isdigit() or j.isalpha()):
-    count+=1
-if count!=0:
+exotic=input()
+count1=0
+for go1 in exotic:
+  if (go1.isdigit() or go1.isalpha()):
+    count1+=1
+if count1!=0:
   print("Yes")
 else:
   print("No")
